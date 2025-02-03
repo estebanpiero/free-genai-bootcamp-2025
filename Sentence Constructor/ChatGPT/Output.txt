@@ -1,0 +1,53 @@
+ChatGPT said:
+
+    Got it! Provide an English sentence, and I'll guide you through translating it into Italian following the teaching instructions.
+
+You said:
+
+    This house is scary
+
+
+ChatGPT said:
+
+    ChatGPT
+    📖 Vocabulary Table
+    Italian	English
+    casa	house
+    molto	very
+    spaventoso	scary
+    🏗️ Sentence Structure
+    (Subject) + (Verb) + (Adjective)
+    "This house is very scary." → (Subject) + (to be verb) + (Adverb) + (Adjective)
+
+    🔍 Clues and Considerations
+    In Italian, adjectives usually come after the noun, but some exceptions exist.
+    The verb "to be" needs to be properly conjugated to match "house."
+    Give it a try!
+
+You said:
+
+    la casa e spanventoso
+
+ChatGPT said:
+
+    Your sentence: "La casa e spanventoso"
+
+    ❌ Issues:
+    "e" → Should be written with an accent to form the correct verb (è).
+    "spanventoso" → This word is misspelled; the correct spelling is "spaventoso".
+    Adjective Agreement → "Casa" is feminine, so "spaventoso" needs to match its gender.
+    ✅ Correct Sentence:
+    Try again by fixing these three points!
+
+You said:
+
+La casa e spanventosa
+
+ChatGPT said:
+
+    You're very close! Just one small fix:
+
+    "e" → should be "è" (with the accent).
+
+    ✅ Correct sentence:
+    La casa è spaventosa.
