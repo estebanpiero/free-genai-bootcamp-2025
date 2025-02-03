@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-The school aims to deploy an **on-premises AI server** to enhance the learning experience for its **300 active students** located in **Nagasaki**. This AI-driven educational service will operate **within the school's infrastructure**, ensuring a **personalized and secure learning environment**.
+The school aims to deploy an **on-premises AI server** to enhance the learning **Italian** experience for its **300 active students** located in **Rome**. This AI-driven educational service will operate **within the school's infrastructure**, ensuring a **personalized and secure learning environment**.
 
 ## 🎯 Assumptions
 
